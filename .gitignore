@@ -1,8 +1,0 @@
-# Maven build output
-/target/
-
-# Eclipse project files
-.classpath
-.project
-.settings/
-
